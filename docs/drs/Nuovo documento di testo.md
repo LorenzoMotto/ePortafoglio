@@ -42,8 +42,6 @@ Version | Data | Author(s)| Notes
 ##  <a name="intro"></a>  1 Introduction
 <details>
     <summary> L'app è stata sviluppata per conto di "ePortafoglio" per la gestione del deanro.</summary> 
-    Through this document, designers communicate the design for the product to which the builders or coders must comply. The design specification should state how the design will meet the requirements.
-</details>
     
 ### <a name="purpose"></a> 1.1 Purpose and Scope
 <details> 
